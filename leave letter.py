@@ -1,8 +1,8 @@
-print("\t't ********application********")
+print("\t'leave application")
 
 a=('''To
 The Principle 
-school
+college
 address
 date:<|date|>
 subject:- Application for leave
@@ -29,7 +29,7 @@ g=input("school:")
 h=input("address:")
 
 print('___________________________________________')
-a=a.replace('school',g)
+a=a.replace('college',g)
 a=a.replace('address',h)
 a=a.replace('<|date|>',e)
 a=a.replace('|name|',b)

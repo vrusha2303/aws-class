@@ -8,7 +8,7 @@ date:<|date|>
 subject:- Application for leave
 respected sir/madam,
 Respectfully, I am here to inform you that, 
-I am suffering from fever since last night, 
+I am suffering from fever&cold since last night, 
 The doctor had advised me to take rest for 
 ____ days.
 \t Hence, kindely grant me leave for____days.
@@ -24,7 +24,7 @@ b=input("name:")
 c=input("class:")
 d=input("roll no:")
 e=input("date:")
-f=input("time period:")
+f=input("time period(days):")
 g=input("school:")
 h=input("address:")
 
